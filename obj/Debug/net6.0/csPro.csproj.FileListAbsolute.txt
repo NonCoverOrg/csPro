@@ -1,0 +1,15 @@
+/Users/olgamaluhacodacy/Downloads/csPro/bin/Debug/net6.0/csPro
+/Users/olgamaluhacodacy/Downloads/csPro/bin/Debug/net6.0/csPro.deps.json
+/Users/olgamaluhacodacy/Downloads/csPro/bin/Debug/net6.0/csPro.runtimeconfig.json
+/Users/olgamaluhacodacy/Downloads/csPro/bin/Debug/net6.0/csPro.dll
+/Users/olgamaluhacodacy/Downloads/csPro/bin/Debug/net6.0/csPro.pdb
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/csPro.csproj.AssemblyReference.cache
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/csPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/csPro.AssemblyInfoInputs.cache
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/csPro.AssemblyInfo.cs
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/csPro.csproj.CoreCompileInputs.cache
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/csPro.dll
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/refint/csPro.dll
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/csPro.pdb
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/csPro.genruntimeconfig.cache
+/Users/olgamaluhacodacy/Downloads/csPro/obj/Debug/net6.0/ref/csPro.dll
